@@ -14,7 +14,7 @@ int circ = (M_PI * 2 * rad);
 int area = (M_PI * pow(rad, 2));
 
 int main() {
-    std::cout << "If a cricle has a raidus of 15mm:" << std::endl;
+    std::cout << "If a circle has a radius of 15mm:" << std::endl;
     std::cout << "" << std::endl;
     std::cout << "Area is: " << (circ) << ("mm^2") << std::endl;
     std::cout << "Circumference is: " << (area) << ("mm^2") << std::endl;
